@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+#header{
+    .el-menu{
+        .el-dropdown{
+            height: 60px;
+            float: right;
+            margin-right: 20px;
+            .el-dropdown-link{
+                .el-avatar{
+                    position: relative;
+                    top: 12px;
+                }
+            }
+        }
+    }
+}
